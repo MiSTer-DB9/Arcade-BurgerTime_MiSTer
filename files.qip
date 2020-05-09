@@ -8,3 +8,5 @@ set_global_assignment -name VHDL_FILE gen_ram.vhd
 set_global_assignment -name VHDL_FILE burger_time_sound.vhd
 set_global_assignment -name VHDL_FILE burger_time.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-BurgerTime.sv"
+set_global_assignment -name VERILOG_FILE joydb9md.v
+set_global_assignment -name VERILOG_FILE joydb15.v
